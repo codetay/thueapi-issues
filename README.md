@@ -5,4 +5,4 @@ Nếu có vấn đề gì vui lòng [**Tạo issue mới**](https://github.com/c
 Cám ơn bạn đã báo lỗi và góp ý đề xuất tính năng. Mình rất cám ơn các góp ý mang tính đóng góp cao từ phía các bạn.
 
 
-***with ❤ from [#CODETAY***](https://codetay.com)
+***with ❤ from [**#CODETAY**](https://codetay.com)
