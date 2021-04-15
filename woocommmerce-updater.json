@@ -1,0 +1,39 @@
+{
+	"name": "ThueAPI - Thanh toán đơn giản với hệ thống tự động !",
+	"version": "1.0.3",
+	"download_url": "https://github.com/codetay/thueapi-issues/releases/download/1.0.3/thueapi-for-woocommerce-1.0.3.zip",
+
+	"homepage": "https://thueapi.com/",
+	"requires": "5.7",
+	"tested": "5.7",
+	"last_updated": "2021-04-14 16:17:00",
+	"upgrade_notice": "Cập nhật tính năng mới và optimze code",
+
+	"author": "#CODETAY",
+	"author_homepage": "https://codetay.com/",
+
+	"sections": {
+		"description": "### Xử lý giao dịch tự động cho đơn hàng thanh toán bằng hình thức chuyển khoản qua các ngân hàng tại Việt Nam:<br/><br/>Vui lòng đăng kí tài khoản trên [ThueAPI.com](https://thueapi.com) và liên kết ngân hàng vào hệ thống để sử dụng dịch vụ.<br/><br/>- Giải pháp thanh toán đơn giản & tiện lợi<br/>- Giải pháp thanh toán cho cá nhân và doanh nghiệp đa nền tảng.<br/>- Giúp tiết kiệm chi phí vận hành và tối ưu thời gian xử lý công việc.<br/><br/>### Chúng tôi luôn nỗ lực nghiên cứu và phát triển các sản phẩm hữu ích nhằm đáp ứng nhu cầu ngày càng cao của các doanh nghiệp hiện nay!<br/><br/>Nếu gặp bất kỳ vấn đề gì về cài đặt plugin, vui lòng liên hệ với chúng tôi - [#CODETAY](https://codetay.com/)",
+		"installation": "### Có 2 cách cài đặt: tự động trên repo của WordPress (khuyên dùng) hoặc tải về thủ công plugin.<br/><br/>Sau đây là hướng dẫn cài đặt thủ công:<br/><br/>1. Trước tiên download plugin này về và giải nén ra thư mục `thueapi-for-woocommerce`.<br/>2. Copy thư mục giải nén vào `/wp-content/plugins/`.<br/>2. Sau đó vào phần `Quản lý plugins` và active plugin `ThueAPI for WooCommerce - Thanh toán đơn giản với hệ thống tự động !`.<br/>3. Truy cập vào `WooCommerce > Settings > Payments > ThueAPI - Thanh toán đơn giản với hệ thống tự động !` để tiến hành thiết lập cổng thanh toán.",
+		"changelog": "1.0.2 - Cập nhật tính năng mới và optimze code",
+		"contact": "Vui lòng liên hệ với chúng tôi nếu cần hỗ trợ tại https://codetay.com"
+	},
+	
+	"icons" : {
+		"1x" : "https://thueapi.com/central/images/thueapi-logo-red.png",
+		"2x" : "https://thueapi.com/central/images/thueapi-logo-red.png"
+    },
+
+	"banners": {
+		"low": "https://thueapi.com/central/images/payment-gateway-api.png",
+		"high": "https://thueapi.com/central/images/payment-gateway-api.png"
+	},
+
+	"translations": [],
+
+	"rating": 99,
+	"num_ratings": 10,
+
+	"downloaded": 1000,
+	"active_installs": 100
+}
