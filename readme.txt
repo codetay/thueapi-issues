@@ -39,14 +39,6 @@ Sau đây là hướng dẫn cài đặt thủ công:
 
 Nếu gặp bất kỳ vấn đề gì về cài đặt plugin, vui lòng liên hệ với chúng tôi - [CODETAY](https://codetay.com/)
 
-== Screenshots ==
-
-1. Trang chủ của ThueAPI.com screenshot-1.(png|jpg|jpeg|gif)
-2. Form đăng ký tài khoản
-3. Giao diện quản trị.
-4. Giao diện các ngân hàng được hỗ trợ
-5. Giao diện báo cáo giao dịch
-
 == Frequently Asked Questions ==
 
 CODETAY - hi@developer.vn
