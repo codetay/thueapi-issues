@@ -41,7 +41,7 @@ Nếu gặp bất kỳ vấn đề gì về cài đặt plugin, vui lòng liên 
 
 == Screenshots ==
 
-1. Trang chủ của ThueAPI.com
+1. Trang chủ của ThueAPI.com screenshot-1.(png|jpg|jpeg|gif)
 2. Form đăng ký tài khoản
 3. Giao diện quản trị.
 4. Giao diện các ngân hàng được hỗ trợ
@@ -57,4 +57,4 @@ Vui lòng tham khảo hướng dẫn nâng cấp trước khi thực hiện vi�
 == Changelog ==
 
 = 2021.04.15 - version 1.0.3 =
- - Update more functional
+ * Update more functional
