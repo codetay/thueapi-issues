@@ -39,10 +39,6 @@ Sau đây là hướng dẫn cài đặt thủ công:
 
 Nếu gặp bất kỳ vấn đề gì về cài đặt plugin, vui lòng liên hệ với chúng tôi - [CODETAY](https://codetay.com/)
 
-== Frequently Asked Questions ==
-
-CODETAY - hi@developer.vn
-
 == Upgrade Notice ==
 Vui lòng tham khảo hướng dẫn nâng cấp trước khi thực hiện việc nâng cấp phiên bản !
 
