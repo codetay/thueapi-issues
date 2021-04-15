@@ -12,7 +12,7 @@
 
 ThueAPI - Thanh toán đơn giản với hệ thống tự động
 
-== Description ==
+== Description
 
 ## Xử lý giao dịch tự động cho đơn hàng thanh toán bằng hình thức chuyển khoản qua các ngân hàng tại Việt Nam:
 
@@ -26,7 +26,7 @@ Vui lòng đăng kí tài khoản trên [ThueAPI.com](https://thueapi.com) và l
 
 Nếu gặp bất kỳ vấn đề gì về cài đặt plugin, vui lòng liên hệ với chúng tôi - [#CODETAY](https://codetay.com/)
 
-== Installation ==
+== Installation
 
 ## Có 2 cách cài đặt: tự động trên repo của WordPress (khuyên dùng) hoặc tải về thủ công plugin.
 
@@ -39,7 +39,7 @@ Sau đây là hướng dẫn cài đặt thủ công:
 
 Nếu gặp bất kỳ vấn đề gì về cài đặt plugin, vui lòng liên hệ với chúng tôi - [#CODETAY](https://codetay.com/)
 
-== Screenshots ==
+== Screenshots
 
 1. Trang chủ của ThueAPI.com
 2. Form đăng ký tài khoản
@@ -47,14 +47,14 @@ Nếu gặp bất kỳ vấn đề gì về cài đặt plugin, vui lòng liên 
 4. Giao diện các ngân hàng được hỗ trợ
 5. Giao diện báo cáo giao dịch
 
-== Frequently Asked Questions ==
+== Frequently Asked Questions
 
 #CODETAY - hi@developer.vn
 
-== Upgrade Notice ==
+== Upgrade Notice
 Vui lòng tham khảo hướng dẫn nâng cấp trước khi thực hiện việc nâng cấp phiên bản !
 
-== Changelog ==
+== Changelog
 
-= 2021.04.15 - version 1.0.3 =
+= 2021.04.15 - version 1.0.3
  * Update more functional
