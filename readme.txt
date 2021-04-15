@@ -24,7 +24,7 @@ Vui lòng đăng kí tài khoản trên [ThueAPI.com](https://thueapi.com) và l
 
 ## Chúng tôi luôn nỗ lực nghiên cứu và phát triển các sản phẩm hữu ích nhằm đáp ứng nhu cầu ngày càng cao của các doanh nghiệp hiện nay!
 
-Nếu gặp bất kỳ vấn đề gì về cài đặt plugin, vui lòng liên hệ với chúng tôi - [#CODETAY](https://codetay.com/)
+Nếu gặp bất kỳ vấn đề gì về cài đặt plugin, vui lòng liên hệ với chúng tôi - [CODETAY](https://codetay.com/)
 
 == Installation ==
 
@@ -37,7 +37,7 @@ Sau đây là hướng dẫn cài đặt thủ công:
 2. Sau đó vào phần `Quản lý plugins` và active plugin `ThueAPI - Thanh toán đơn giản với hệ thống tự động !`.
 3. Truy cập vào `WooCommerce > Settings > Payments > ThueAPI - Thanh toán đơn giản với hệ thống tự động !` để tiến hành thiết lập cổng thanh toán.
 
-Nếu gặp bất kỳ vấn đề gì về cài đặt plugin, vui lòng liên hệ với chúng tôi - [#CODETAY](https://codetay.com/)
+Nếu gặp bất kỳ vấn đề gì về cài đặt plugin, vui lòng liên hệ với chúng tôi - [CODETAY](https://codetay.com/)
 
 == Screenshots ==
 
@@ -49,7 +49,7 @@ Nếu gặp bất kỳ vấn đề gì về cài đặt plugin, vui lòng liên 
 
 == Frequently Asked Questions ==
 
-#CODETAY - hi@developer.vn
+CODETAY - hi@developer.vn
 
 == Upgrade Notice ==
 Vui lòng tham khảo hướng dẫn nâng cấp trước khi thực hiện việc nâng cấp phiên bản !
@@ -57,4 +57,4 @@ Vui lòng tham khảo hướng dẫn nâng cấp trước khi thực hiện vi�
 == Changelog ==
 
 = 2021.04.15 - version 1.0.3 =
- * Update more functional
+ - Update more functional
